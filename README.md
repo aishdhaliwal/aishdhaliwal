@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/aishdhaliwal/count.svg)
+![](https://komarev.com/ghpvc/?username=aishdhaliwal&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
